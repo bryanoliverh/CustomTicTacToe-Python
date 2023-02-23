@@ -12,7 +12,7 @@
 
 **Examples of how the game is played:**
 
-
+```
 Enter player 1 name: Bryan
 Enter player 2 name: Oliver
 Size of game ticTacToeBoard: 5
@@ -89,3 +89,4 @@ Bryan, place your X tile: 14 24
 4 X - O O -
 Bryan 10 - Oliver 8
 Bryan is the winner!!
+```
